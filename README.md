@@ -8,4 +8,4 @@ wat wist ik al?
 - ik wist nog niks van Github.
 
 waarvan zou ik nog meet willen weten?
--Merge conflicts, deze lessen volgen ik niet helemaal.
+- Merge conflicts, deze lessen volgen ik niet helemaal.
