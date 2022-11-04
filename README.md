@@ -1,6 +1,6 @@
 # Reflectie-Skill-Rein-Bente
 
-Bente:
+## Bente:
 wat heb ik met deze lessen nieuw geleerd?
 - Github gebruiken.
 
